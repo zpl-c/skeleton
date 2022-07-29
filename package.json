@@ -1,13 +1,13 @@
 {
-  "name": "zpl.c",
+  "name": "skeleton.c",
   "version": "15.0.0",
-  "homepage": "https://github.com/zpl-c/zpl#readme",
+  "homepage": "https://github.com/zpl-c/skeleton#readme",
   "description": "Single-file header-only C and C++ helper library.",
   "author": "Dominik Madarasz <zaklaus@outlook.com> (http://madaraszd.net/)",
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zpl-c/zpl.git"
+    "url": "git+https://github.com/zpl-c/skeleton.git"
   },
   "scripts": {
     "embed": "node -e 'require(\"./misc/packager\").embedIncludes()'",
@@ -27,7 +27,7 @@
     "github": {
       "release": true,
       "assets": [
-        "misc/deploy/zpl.h"
+        "misc/deploy/skeleton.h"
       ]
     },
     "plugins": {
