@@ -1,11 +1,11 @@
 <div align="center">
-    <a href="https://github.com/zpl-c/zpl"><img src="https://user-images.githubusercontent.com/2182108/111983468-d5593e80-8b12-11eb-9c59-8c78ecc0504e.png" alt="zpl" /></a>
+    <a href="https://github.com/zpl-c/skeleton"><img src="https://user-images.githubusercontent.com/2182108/111983468-d5593e80-8b12-11eb-9c59-8c78ecc0504e.png" alt="zpl" /></a>
 </div>
 
 <br />
 
 <div align="center">
-    <a href="https://github.com/zpl-c/zpl/actions"><img src="https://img.shields.io/github/workflow/status/zpl-c/zpl/tester?label=Tests&style=for-the-badge" alt="Build status" /></a>
+    <a href="https://github.com/zpl-c/skeleton/actions"><img src="https://img.shields.io/github/workflow/status/zpl-c/skeleton/tester?label=Tests&style=for-the-badge" alt="Build status" /></a>
     <a href="https://discord.gg/2fZVEym"><img src="https://img.shields.io/discord/354670964400848898?color=7289DA&style=for-the-badge" alt="discord" /></a>
 </div>
 
@@ -44,7 +44,7 @@ This approach will download the latest release of zpl with everything prepared f
 ## 3. Cloning the repository
 * Clone the repository by pressing the **Clone or download** button for instructions or use your terminal to clone:
 ```sh
-git clone https://github.com/zpl-c/zpl.git
+git clone https://github.com/zpl-c/skeleton.git
 ```
 
 We use this method to develop zpl as it contains all the development sources that are easy to modify and expand, but it is not suitable for use in production.
